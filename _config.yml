@@ -38,8 +38,8 @@ social:
   email: nis3x.sh@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/nis3x_ # change to your twitter homepage
-    - https://github.com/nis3x # change to your github homepage
+    - https://twitter.com/Nis3x_ # change to your twitter homepage
+    - https://github.com/Nis3x # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -70,10 +70,10 @@ theme_mode: dark # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://avatars.githubusercontent.com/u/93822668?v=4
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/93822668?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
