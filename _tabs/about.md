@@ -3,10 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 Hello and welcome to my portfolio and blog!
 
 My name is Pau Borda Carrasco, I am a 25-year-old hacker from Spain. This is where I occasionally will write my write-ups, CVEs, CTF solutions, vulnerability case studies, or anything related with cyber security.
